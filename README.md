@@ -16,12 +16,12 @@ data augmentation. The table shows accuracy on the test set after the last epoch
 
 | Model | Dataset | Layers | Parameters | Test accuracy (epoch 30) | Notebook |
 | --- | --- | --- | ---: | ---: | --- |
-| MLP | MNIST | 784-128-64-10 | 109,386 | **94.96%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/MNIST.ipynb) |
-| MLP | Fashion-MNIST | 784-256-128-10 | 235,146 | **85.05%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/MLP%20Fashion-MNIST.ipynb) |
-| MLP | CIFAR-10 | 3072-256-128-10 | 820,874 | **46.41%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/MLP%20CIFAR10.ipynb) |
-| LeNet-5 | MNIST | 2 conv + 3 fc | 61,706 | **98.37%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/LeNet%20MNIST.ipynb) |
-| LeNet-5 | Fashion-MNIST | 2 conv + 3 fc | 61,706 | **86.58%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/LeNet%20Fashion-MNIST.ipynb) |
-| LeNet-5 | CIFAR-10 | 2 conv + 3 fc | 62,006 | **51.66%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/machine-learning-models/blob/main/LeNet%20CIFAR10.ipynb) |
+| MLP | MNIST | 784-128-64-10 | 109,386 | **94.96%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/MNIST.ipynb) |
+| MLP | Fashion-MNIST | 784-256-128-10 | 235,146 | **85.05%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/MLP%20Fashion-MNIST.ipynb) |
+| MLP | CIFAR-10 | 3072-256-128-10 | 820,874 | **46.41%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/MLP%20CIFAR10.ipynb) |
+| LeNet-5 | MNIST | 2 conv + 3 fc | 61,706 | **98.37%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/LeNet%20MNIST.ipynb) |
+| LeNet-5 | Fashion-MNIST | 2 conv + 3 fc | 61,706 | **86.58%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/LeNet%20Fashion-MNIST.ipynb) |
+| LeNet-5 | CIFAR-10 | 2 conv + 3 fc | 62,006 | **51.66%** | [Open in Colab](https://colab.research.google.com/github/jrdpaulino/Machine-Learning-Models/blob/main/LeNet%20CIFAR10.ipynb) |
 
 **What it shows**
 
