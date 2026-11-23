@@ -55,3 +55,7 @@ Each notebook downloads its dataset automatically into `./data` and logs trainin
 
 Normalising the inputs, adding data augmentation, using a held-out validation set, and comparing against a deeper
 network. I would also still like to train a model on audio frequencies for choir.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
